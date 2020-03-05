@@ -1,4 +1,4 @@
-#Repositorio de ejercicios con Django
+# Repositorio de ejercicios con Django
 
 - Hello World App: Punto 3
 - Pages App: Punto 4
